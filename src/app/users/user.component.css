@@ -1,0 +1,43 @@
+.bg-transparent {
+    background-color: transparent;
+  }
+  
+  :host {
+    height: 100%;
+  }
+  
+  .photo {
+    object-fit: contain;
+  }
+  
+  .card {
+    width: 20rem;
+    margin: 0 auto;
+  }
+
+  button.btn-signout {
+    background-color: #e7a33d;
+  }
+
+  .navbar-login
+{
+    width: 305px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.navbar-login-session
+{
+    padding: 10px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.icon-size
+{
+    font-size: 87px;
+}
+
+div.dropdown-menu-right {
+  margin: 10px -15px 0 0;
+}
